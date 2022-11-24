@@ -1,4 +1,4 @@
-### Olá!!! Meu nome é Matheus, atualmente estou estudando a linguagem de programação Java!
+### Olá, meu nome é Matheus, sejam muito bem-vindos!
 
 - 🔍 Em busca da primeira oportunidade na área de programação
 - ☕ Estudando Java
